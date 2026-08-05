@@ -11,7 +11,7 @@ Passionate about building scalable full-stack web applications, AI-powered solut
 
 - 🎓 B.Tech in Electronics & Communication Engineering at **IIITDM Jabalpur**
 - 💻 Interested in **Full-Stack Development, Backend Engineering, and AI Applications**
-- 🌱 Currently exploring **Next.js, System Design, and scalable backend development**
+- 🌱 Currently exploring **Gen AI, System Design, and scalable backend development**
 - 🚀 Always looking to build impactful projects and learn modern technologies
 
 ---
