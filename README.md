@@ -47,7 +47,7 @@ OpenAI API • Gemini API • Vapi AI • TensorFlow • Scikit-learn
 ## 📫 Connect With Me
 
 - 📧 Email: **cscs645r@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/chitra-singh-7060102a0/**
+- 💼  LinkedIn: [Chitra Singh](https://www.linkedin.com/in/chitra-singh-7060102a0/)
 - 💻 GitHub: **https://github.com/CHITRA2445**
 
 ---
